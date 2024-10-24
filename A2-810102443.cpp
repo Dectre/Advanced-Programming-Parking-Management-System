@@ -14,7 +14,6 @@ const string PRICE_FILE = "prices.csv";
 struct Car {
     string name;
     int size;
-    int salam;
 };
 
 struct ParkingLot {
